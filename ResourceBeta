@@ -1,0 +1,130 @@
+# =====================================================
+# INFO GENERAL DEL LAUNCHER
+# =====================================================
+
+VERSION=1.5
+
+
+# =====================================================
+# ACTUALIZACIONES PUBLICAS
+# =====================================================
+
+#UPDATES_PUBLICAS
+https://drive.google.com/drive/folders/1G84OlWOcDnSoJmG0DJIQpOukXdjCnl7N?usp=sharing
+https://drive.google.com/drive/folders/1rXMKTOFbAigRjH3n0URcQMMeaOnk4oNh?usp=sharing
+https://drive.google.com/drive/folders/1ENf3fZqlvL0E1O3Hz_5Mj6s7ZkWxnY61?usp=sharing
+https://drive.google.com/drive/folders/1ArwFGBEEmMzt7b0w-Y4iuX5ePWEqCmu9?usp=sharing
+https://drive.google.com/drive/folders/1yygyzkv6D1FiZJ4M3cwa-a23CQERfFN-?usp=sharing
+https://drive.google.com/drive/folders/13xYcBM_UsjtuzsvvwM1GZ-qsMHoyqneT?usp=sharing
+https://drive.google.com/drive/folders/12z49VvmyPm4X21y7FhZSkpfRUb7Shcah?usp=drive_link
+https://drive.google.com/drive/folders/1MvhMJz9XAgEl5P_OwU6u4_WgYs_8rbLx?usp=sharing
+
+
+# =====================================================
+# AVISO PUBLICO
+# =====================================================
+
+AVISO_PUBLICO_ID=msg_2026_09_05
+
+AVISO_PUBLICO_TITULO_ES=Nuevos Cambios
+AVISO_PUBLICO_TEXTO_ES=Saludos, hay una gran lista de cambios. Pueden revisarla en la sección de novedades (Configuración - Novedades).
+
+AVISO_PUBLICO_TITULO_EN=New Changes
+AVISO_PUBLICO_TEXTO_EN=Greetings, there is a large list of changes. You can review it in the changelog section (Settings - Changelog).
+
+
+# =====================================================
+# NOTAS ROTATIVAS
+# =====================================================
+
+#NOTAS_ES
+IMPORTANTE: Tener suficiente memoria libre para la instalación o dará error.
+Recuerda instalar las actualizaciones en orden.
+En Horda, tus cambios se guardan incluyendo el inventario aunque no se muestre al volver a abrir el Manager.
+Gracias por jugar ArtOmega Beta.
+Creado por D117, Lonely Wolf y CrisOvO.
+Modo Bestia Elite desarrollado por LATEXXJUGGERNUT y Strlye.
+¿Tienes problemas? Visita el Discord de la comunidad.
+Al instalar el juego o una actualización puede tomar unos minutos.
+Los accesos directos pueden ayudarte a iniciar más rápido.
+Instala WinRAR para evitar errores con archivos comprimidos.
+ArtOmega agradece tu apoyo constante.
+La instalación del juego puede ser en la ubicación que tú quieras.
+El juego base requiere aproximadamente 20GB en la unidad C:.
+El contenido extra puede no funcionar si no estás al día con las actualizaciones.
+Si encuentras un error, repórtalo en Discord en la sección #bugs-avisos.
+Enoth estuvo aquí.
+NOVEDAD: Nuevos personajes para Horda, Bestia y Multijugador.
+Juega seguido y tu nombre podría aparecer aquí con una nota tuya.
+NOVEDAD: Nuevos mapas disponibles.
+Los modos FFA ya están disponibles desde el menú del juego.
+Opción de salir del juego desde el menú.
+
+#NOTAS_EN
+IMPORTANT: Make sure you have enough free disk space or installation may fail.
+Remember to install updates in order.
+In Horde mode, your changes are saved including inventory even if not shown after reopening the Manager.
+Thanks for playing ArtOmega Beta.
+Created by D117, Lonely Wolf and CrisOvO.
+Elite Beast Mode developed by LATEXXJUGGERNUT and Strlye.
+Having issues? Visit the community Discord.
+Installing the game or an update may take a few minutes.
+Shortcuts can help you launch the game faster.
+Install WinRAR to avoid compressed file errors.
+ArtOmega appreciates your continued support.
+The game can be installed in any location you choose.
+Base game requires approximately 20GB on drive C:.
+Extra content may not work if you are not up to date.
+If you find a bug, report it on Discord in the #bugs-notices section.
+Enoth was here.
+NEW: New characters for Horde, Beast and Multiplayer.
+Play often and your name might appear here with your own note.
+NEW: New maps available.
+FFA modes are now available directly from the in-game menu.
+Option to exit the game from the main menu.
+
+
+# =====================================================
+# CHANGELOG PUBLICO
+# =====================================================
+
+#CHANGELOG_PUBLICO
+[2026-09-05]
+- ESP
+- Nuevos Locust
+- Nuevos Gears
+- Nuevo sistema de Horda (no usar la opción de horda personalizada por ahora)
+- Mejora en Puntos de reaparición de FFA
+- HUD FFA Mejorado
+- Nuevas Armas
+- Menú de modo Bestia mejorado
+- ENG
+- New Locusts
+- New Gears
+- New Horde system (do not use custom horde option for now)
+- Improved FFA respawn points
+- Improved FFA HUD
+- New Weapons
+- Improved Beast Mode menu
+
+
+# =====================================================
+# PACKS DE CONTENIDO PUBLICOS
+# =====================================================
+
+PACK_ID=Prueba/Test
+
+PACK_NOMBRE_ES=Pack permitido en pública
+PACK_DESC_ES=Este pack aparece en la versión pública.
+
+PACK_NOMBRE_EN=Public Allowed Pack
+PACK_DESC_EN=This pack is available in the public build.
+
+PACK_INI_BEGIN
+[Chirlis COGCharacterSummary]
+ClassPathName=GearGameContent.GearPawn_COGChirlis
+PortraitIcon=(ImagePathName="UI_Portraits.UI_MPChar_Cog",Coordinates=(U=110,V=138,UL=110,VL=138))
+ProfileId=CMPC_chir
+bIsLeader=false
+bIsDisabled=false
+PACK_INI_END
